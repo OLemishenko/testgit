@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch 
+=======
+branch master
+>>>>>>> parent of 96819fc... commit #2 in branch masrer (before merging)
